@@ -1,0 +1,28 @@
+body {
+    font-family: 'Monda', sans-serif;
+}
+
+.navbar-light .navbar-brand {
+    color: #d77d82;
+}
+
+.logo {
+    width: 50px;
+    height: auto;
+}
+
+#home {
+    background-image: url('images/polar.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.body {
+    height: 100vh;
+}
+
+.wcs-label {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #d77d82;
+}
